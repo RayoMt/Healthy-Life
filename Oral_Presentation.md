@@ -19,6 +19,6 @@ The importance of healthy habits in daily life is central for both cyclists and 
 
 To address Japan's health challenges, like the aging population and chronic diseases such as diabetes and hypertension, technology plays an important role. With health monitoring apps and big data, people can manage their health. They can stop diseases before they get worse. Also, teaching healthy habits helps people take control of their well-being. They don't wait for health problems to appear. With these solutions, technology and personal responsibility work together to improve health.
 
-[Improving Health in Japan with Engineering](https://www.youtube.com/watch?v=UiHsaRanu-o)
+See this video to more information: [Improving Health in Japan with Engineering](https://www.youtube.com/watch?v=UiHsaRanu-o)
 
 The path to better health in Japan has three pillars: healthy habits, organized daily routines, and technological progress. This plan helps with the problems of an aging population and chronic diseases. It also builds a healthy and sustainable future.
